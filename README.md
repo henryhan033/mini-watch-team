@@ -11,7 +11,7 @@ Day4 본문 6교시에서 완성한 코드를 새 Day5 폴더로 받아 사용�
 VS Code에서 C:\work 같은 상위 폴더를 열고 새 CMD에서 실행한다.
 
 ```text
-git clone --branch day05-start --single-branch https://github.com/zeroskill2400/mini-watch.git mini-watch-day05
+git clone --branch day05-start https://github.com/zeroskill2400/mini-watch.git mini-watch-day05
 ```
 
 받은 mini-watch-day05 폴더를 VS Code로 열고 새 CMD를 연다. 먼저 시작 브랜치를 확인한다.
